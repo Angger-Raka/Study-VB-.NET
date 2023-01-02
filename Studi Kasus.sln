@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "frCheckBox", "Studi Kasus\frCheckBox.vbproj", "{F46342EB-FCDE-4972-81CE-DD7B511BAEEA}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FrRadio", "FrRadio\FrRadio.vbproj", "{7C84D13B-3013-4182-8ACF-29878C054567}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FormListBox", "FormListBox\FormListBox.vbproj", "{9BF9943D-8C5B-4938-AD27-3C8EDF859BF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F46342EB-FCDE-4972-81CE-DD7B511BAEEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F46342EB-FCDE-4972-81CE-DD7B511BAEEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F46342EB-FCDE-4972-81CE-DD7B511BAEEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F46342EB-FCDE-4972-81CE-DD7B511BAEEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C84D13B-3013-4182-8ACF-29878C054567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C84D13B-3013-4182-8ACF-29878C054567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C84D13B-3013-4182-8ACF-29878C054567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C84D13B-3013-4182-8ACF-29878C054567}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BF9943D-8C5B-4938-AD27-3C8EDF859BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF9943D-8C5B-4938-AD27-3C8EDF859BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF9943D-8C5B-4938-AD27-3C8EDF859BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF9943D-8C5B-4938-AD27-3C8EDF859BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43D2DF4F-2B57-47DF-A40E-D7EE1603D35A}
+	EndGlobalSection
+EndGlobal
